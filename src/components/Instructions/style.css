@@ -1,0 +1,30 @@
+#instructions {
+    background-image: url('../../assets/img/background.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.explain {
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+}
+
+section {
+        background-color: rgba(0, 0, 0, 0.7);
+        height: 80%;
+        width: 35%;
+        padding-left: 2rem;
+        padding-right: 2rem;
+}
+
+.ready-or-not {
+    padding-top: 80px;
+    display: flex;
+    justify-content: space-around;
+}
