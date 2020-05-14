@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quizlet/static/css/main.676bfc07.chunk.css",
+    "main.js": "/quizlet/static/js/main.3711b4dd.chunk.js",
+    "main.js.map": "/quizlet/static/js/main.3711b4dd.chunk.js.map",
+    "runtime-main.js": "/quizlet/static/js/runtime-main.fdf3cf7f.js",
+    "runtime-main.js.map": "/quizlet/static/js/runtime-main.fdf3cf7f.js.map",
+    "static/js/2.07f19411.chunk.js": "/quizlet/static/js/2.07f19411.chunk.js",
+    "static/js/2.07f19411.chunk.js.map": "/quizlet/static/js/2.07f19411.chunk.js.map",
+    "index.html": "/quizlet/index.html",
+    "precache-manifest.685762fd85aef15ce68d7eec5b4f2f37.js": "/quizlet/precache-manifest.685762fd85aef15ce68d7eec5b4f2f37.js",
+    "service-worker.js": "/quizlet/service-worker.js",
+    "static/css/main.676bfc07.chunk.css.map": "/quizlet/static/css/main.676bfc07.chunk.css.map",
+    "static/js/2.07f19411.chunk.js.LICENSE.txt": "/quizlet/static/js/2.07f19411.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/quizlet/static/media/background.f7792cc8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdf3cf7f.js",
+    "static/js/2.07f19411.chunk.js",
+    "static/css/main.676bfc07.chunk.css",
+    "static/js/main.3711b4dd.chunk.js"
+  ]
+}
