@@ -9,6 +9,7 @@ import HighScores from "./components/HighScores";
 function App() {
   return (
     <Router>
+      <Route exact path="/quizlet" component={Home} />
       <Route exact path="/" component={Home} />
       <Route exact path="/play/instructions" component={Instructions} />
       <Route exact path="/play/quiz" component={Play} />
